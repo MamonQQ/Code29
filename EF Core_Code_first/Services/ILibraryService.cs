@@ -1,6 +1,6 @@
 ﻿using EF_Core_Code_first.Models;
 using Microsoft.AspNetCore.Mvc;
-using EF_Core_Code_first.Models;
+
 
 namespace EF_Core_Code_first.Services
 {
