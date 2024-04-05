@@ -6,7 +6,7 @@ using EF_Core_Code_first.Data;
 using EF_Core_Code_first.Models;
 
 
-namespace Student_WEBAPI.Services
+namespace EF_Core_Code_first.Services
 {
 	public class SchoolService : ISchoolService
 	{
